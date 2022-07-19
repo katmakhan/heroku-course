@@ -1,0 +1,3 @@
+delete_firebase: python delete_firebase_data.py
+fetch_firebase: python fetch_firebase_data.py
+listener_firebase: python listener_firebase_data.py
