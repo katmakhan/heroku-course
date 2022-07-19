@@ -18,7 +18,7 @@
 - one `runtime.txt` explaining which python/node to run
 
 ### Procfile
-- <service_name>: <path to the program>
+- <service_name> : <path_to_the_program>
 ```console
 fetch_service: python fetch_firebase_data.py
 delete_service: python delete_firebase_data.py
