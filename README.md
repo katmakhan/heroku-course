@@ -15,7 +15,7 @@
 - One `Python` File/ `Node Js`
 - One `Procfile` without Extensions
 - One `requirements.txt` file with modules name and version
-- one `runtime.txt` explaining which python/node to run
+- one `runtime.txt` explaining which python/node to be installed in the cloud.
 
 ### Procfile
 - <service_name> : <program> <path_to_the_program>
